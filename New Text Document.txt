@@ -1,0 +1,18 @@
+https://docs.google.com/document/d/1nlDc1yE0ebp5ZD37MIvR_kct4spPmBL8ul5DyQvAaCY/edit?usp=sharing
+
+
+Throughout my career as a DevOps Engineer, I have utilized source control tools like Git, GitHub,
+ and GitLab to manage code repositories and collaborate with development teams.
+ I am proficient in performing code versioning, branching, merging, and resolving conflicts using these tools. 
+I have also utilized Git hooks and Continuous Integration (CI) processes to automate code quality checks
+ and identify bugs earlier in the development cycle. By integrating source control tools with CI/CD pipelines, 
+I have been able to catch and fix bugs more efficiently, leading to higher code quality and faster release cycles.
+ My experience in using source control tools enables me to effectively manage codebases and 
+ensure code integrity throughout the development process.
+
+
+https://github.com/LondheShubham153/two-tier-flask-app
+
+𝗗𝗲𝘃𝗢𝗽𝘀 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀: https://github.com/techiescamp/devops-projects
+
+https://github.com/vistasunil/jenkins-terraform-docker-webinar.git
